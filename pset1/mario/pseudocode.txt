@@ -1,0 +1,8 @@
+Prompt user for height that's beetween 4 and 8
+
+height = h
+i = 1
+
+iterate h times:
+    Print : " " * (height-i), print (i * "#"), print \n
+        i ++
